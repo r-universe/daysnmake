@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/daysnmake/daysnmake.r-universe.dev
 	branch = HEAD
+[submodule "msdes"]
+	path = msdes
+	url = https://github.com/daysNmake/msdes
